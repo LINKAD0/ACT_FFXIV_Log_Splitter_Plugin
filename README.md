@@ -1,3 +1,7 @@
+The original repo has a final version of the source code that was not released as a .dll file. It made the files created go back to being a .log, readable by FF Logs Uploader, instead of a .zonelog file.
+I only compiled it and made it more easily available.
+All credits go to the original creator valarnin.
+
 # ACT FFXIV Log Splitter Plugin
 
 This plugin will automatically split FFXIV logs into `Zone_<DateTime>_<ZoneName>.log` files, in the same folder as normal FFXIV logs.
